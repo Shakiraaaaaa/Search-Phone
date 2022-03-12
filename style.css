@@ -1,0 +1,54 @@
+.phone-card {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 10px;
+    box-shadow: 0 0 10px lightblue;
+  }
+  .phone-card .phone-image {
+    max-width: 180px;
+    margin: 0 auto;
+  }
+  .phone-card span {
+    color: orangered;
+    font-family: "Oswald", sans-serif;
+  }
+  .phone-card h5 {
+    font-size: 16px;
+    color: black;
+    font-family: "Noto Serif Display", serif;
+  
+    font-weight: 700;
+  }
+  .phone-card .search-btn {
+    background-image: linear-gradient(#FF589B,#FF136F);
+    border: none; 
+    color: white;
+     padding: 10px 50px;
+      border-radius: 5px; 
+      font-weight: bold;
+  }
+  
+  
+  
+  .phone-card .phone-detail-images {
+    margin: 0 auto;
+  }
+  .phone-card h4 {
+    color: purple;
+    font-size: 30px;
+  }
+  .phone-card p {
+    color: purple;
+    font-size: 20px;
+    font-weight: bold;
+  }
+  .phone-card h4 span {
+    color: black;
+    font-size: 15px;
+  }
+  .phone-card p span {
+    color: black;
+    font-size: 18px;
+   
+  }
+  
